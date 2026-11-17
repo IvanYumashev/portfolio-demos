@@ -10,7 +10,7 @@
     <Title>Создание сайтов, лендингов и веб-приложений</Title>
     <Description>Создам сайт или веб-приложение под вашу задачу: страницу услуги, лендинг, каталог, интерактивный сервис или браузерную игру. Работаю удалённо с заказчиками из Москвы и других городов.
 
-Продумаю структуру, дизайн и удобство на телефоне. Формы заявок, личный кабинет, интеграции и другие функции согласуем до начала работы. В галерее — мои реальные проекты: приложение питания и тренировок и игра с пазлами.
+Продумаю структуру, дизайн и удобство на телефоне. Формы заявок, личный кабинет, интеграции и другие функции согласуем до начала работы. В галерее — мои реальные проекты: сайт обучения с интерактивной таблицей, приложение питания и тренировок и игра с пазлами.
 
 Можно начать с небольшой задачи. За 1 000 ₽ подготовлю адаптивную страницу-визитку из одного блока: ваш текст, одно изображение и кнопка-ссылка. Вы предоставляете материалы; результат — файлы страницы и один раунд небольших правок. Срок этого пакета — 2 дня после получения материалов и согласования задачи. Домен, хостинг, дополнительные блоки, формы и программная часть оплачиваются отдельно по согласованию.
 
@@ -84,6 +84,8 @@
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-service-v2.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-01-safe.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-02-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-03-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-04-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-05-safe.png" />
@@ -103,7 +105,7 @@
 
 Срок стартового пакета — 2 дня после получения всех материалов и согласования задачи. Музыку используем предоставленную вами с разрешением на публикацию. Сценарий, съёмка, покупка музыки, сложная графика и AI-генерация в стартовый пакет не входят.
 
-Длинные YouTube-видео, анимацию, AI-вставки, обложки и заставки для стрима оценю отдельно. В галерее — примеры дизайна: афиша для кафе «Арсенал», заставка «Стрим скоро начнётся» и шахматная обложка. Это примеры обработки и оформления изображений; видеомонтаж обсудим по вашим исходникам.
+Длинные YouTube-видео, анимацию, AI-вставки, обложки и заставки для стрима оценю отдельно. В галерее — примеры дизайна: афиша для кафе «Арсенал», заставка «Стрим скоро начнётся» обложка в образе Эйнштейна и фанатская ИИ-иллюстрация с Симпсонами. Это примеры обработки и оформления изображений; видеомонтаж обсудим по вашим исходникам.
 
 Напишите в чат Авито: тема ролика, длительность результата, объём исходников и пример нужного стиля. Обсудим цену, срок и правки до начала работы. Я самозанятый.</Description>
     <Address>Москва</Address>
@@ -155,7 +157,8 @@
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-photo-service-v3.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/arsenal-halloween-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/stream-clean-safe-v3.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/tal-chess-clean-safe-v3.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/einstein-clean-safe-v4.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/simpsons-clean-safe-v5.png" />
     </Images>
   </Ad>
 </Ads>
