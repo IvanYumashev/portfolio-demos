@@ -166,15 +166,7 @@
       </Service>
     </PriceList>
     <Images>
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/cover-bright-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-01-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-02-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-03-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-04-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-05-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-06-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-07-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-08-safe.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/video-service-v2.png" />
     </Images>
   </Ad>
 </Ads>
