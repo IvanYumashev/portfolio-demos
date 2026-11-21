@@ -7,7 +7,7 @@
     <ContactPhone>79199999028</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Предложение услуг</Category>
-    <Title>Создание сайтов, лендингов и веб-приложений</Title>
+    <Title>Создание сайтов и лендингов для бизнеса</Title>
     <Description>Создаю сайты, лендинги и веб-приложения под задачи бизнеса. Могу сделать страницу услуги, каталог, форму заявок, личный кабинет или интерактивный сервис.
 
 Продумываю структуру, дизайн и адаптацию для телефонов. По задаче подключаю формы, API и другие интеграции. В галерее — примеры моих проектов: сайт с интерактивной таблицей, приложение для питания и тренировок и игра с пазлами.
@@ -69,8 +69,8 @@
     <WorkWithContract>Нет</WorkWithContract>
     <Prepayment>Нет</Prepayment>
     <Images>
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/cover-bright-safe.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-01-safe.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-01-safe.png" />      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/cover-bright-safe.png" />
+
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-02-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-03-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/sites-04-safe.png" />
@@ -84,7 +84,7 @@
     <ContactPhone>79199999028</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Предложение услуг</Category>
-    <Title>Видеомонтаж, обработка фото и дизайн афиш</Title>
+    <Title>Видеомонтаж Shorts, Reels и видео для YouTube</Title>
     <Description>Монтажом занимаюсь около трёх лет. Монтирую короткие ролики, длинные видео и нарезки для соцсетей. Собираю материал по смыслу, добавляю субтитры и графику, выравниваю звук и цвет. Также обрабатываю фотографии, делаю обложки, афиши и заставки.
 
 В галерее — примеры обработки фото и дизайна. По запросу могу добавить анимацию и ИИ-вставки в ролик.
@@ -126,11 +126,11 @@
     <WorkExperience>1–3 года</WorkExperience>
     <WorkingWithAI>Да</WorkingWithAI>
     <Images>
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/cover-bright-safe.png" />
+      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/simpsons-clean-safe-v5.png" />      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/cover-bright-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/arsenal-halloween-safe.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/stream-clean-safe-v3.png" />
       <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/einstein-clean-safe-v4.png" />
-      <Image url="https://raw.githubusercontent.com/IvanYumashev/portfolio-demos/main/avito/simpsons-clean-safe-v5.png" />
+
     </Images>
   </Ad>
 </Ads>
